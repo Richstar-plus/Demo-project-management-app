@@ -58,13 +58,13 @@ This demo was created to demonstrate frontend development skills using React, in
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](assets/app-screenshot/home%20page.PNG)
+![Home Page](assets/app-screenshots/home%20page.PNG)
 
 ### Project Page
-![Project Page](assets/app-screenshot/Project-page.PNG)
+![Project Page](assets/app-screenshots/Project-page.PNG)
 
 ### Add Project Page
-![Add Project Page](assets/app-screenshot/add-project-page.PNG)
+![Add Project Page](assets/app-screenshots/add-project-page.PNG)
 
 ---
 
