@@ -11,7 +11,7 @@ This is a clean and user-friendly **Project Management App** built as a demo pro
 ## 🔗 Live Links
 
 - **Live Demo:** https://richstar-plus.github.io/Demo-project-management-app/  
-- **Project Repository:** https://richstar-plus.github.io/Demo-project-management-app/
+- **Project Repository:** [https://richstar-plus.github.io/Demo-project-management-app/](https://github.com/Richstar-plus/Demo-project-management-app)
 
 ---
 
